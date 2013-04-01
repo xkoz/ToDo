@@ -3,7 +3,7 @@ ToDo
 
 A simple todo application using Bottle and MongoBD
 
-Requirements 
+Requirements: 
 
 * Python 2.7
 * Bottle framework
